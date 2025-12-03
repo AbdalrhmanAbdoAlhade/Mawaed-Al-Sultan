@@ -85,6 +85,6 @@
 
 *   **اسم المستخدم:** `admin`
 *   **كلمة المرور:** `admin123`
-link demo : mawaed-al-sultan.vercel.app
       --
+                                                                                                                                                                                                                                        link demo : mawaed-al-sultan.vercel.app
 © 2025 مائدة السلطان - تم التطوير بحرفية AbdalrhmanAbdoAlhade.
